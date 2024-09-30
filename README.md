@@ -1,1 +1,0 @@
-# projeto base de exploração de planetas
